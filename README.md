@@ -1,1 +1,1 @@
-# bug-free-potato
+# django_local_library
